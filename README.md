@@ -1,3 +1,3 @@
 # shim
 
-Shim from hyperledger master copied and vendored. GO chaincodes can import this shim and be independent of fabric shim.
+Self contained shim created from hyperledger master. GO chaincodes can import this shim and be independent of fabric shim.
