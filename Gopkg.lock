@@ -61,8 +61,7 @@
   version = "v1.1.1"
 
 [[projects]]
-  branch = "master"
-  digest = "1:c1c9ef8133050bcc97242279c8f6d7531c6180830a23f5d6762e46c02d2d3b6e"
+  digest = "1:78ce0e7c68d5f02a18966aa1b2e143e0838aca6ab288e65a827b0d582dde86cc"
   name = "github.com/docker/docker"
   packages = [
     "api/types",
@@ -89,7 +88,7 @@
     "pkg/system",
   ]
   pruneopts = ""
-  revision = "7bfd8a7a72cde150f3085e7e205ab7c997a81289"
+  revision = "0c5f8d2b9b23ab8d23529b3effdcf53bb058298c"
 
 [[projects]]
   digest = "1:ebe593d8b65a2947b78b6e164a2dac1a230b977a700b694da3a398b03b7afb04"
@@ -108,12 +107,11 @@
   version = "v0.3.3"
 
 [[projects]]
-  digest = "1:62885c723fa2ce49564d77d9ae4f07270a0137ada7c453aab3f629dbe8295aa3"
+  digest = "1:c207b09f96f617e3336a389059833155cdcc5a4518b67aa063bb6dbfe9b8e4de"
   name = "github.com/docker/libnetwork"
   packages = ["ipamutils"]
   pruneopts = ""
-  revision = "6d23f11e681f24ee31802939e243fe8be41a75eb"
-  version = "v0.8.0-dev.2"
+  revision = "19279f0492417475b6bfbd0aa529f73e8f178fb5"
 
 [[projects]]
   digest = "1:fb02a20784a57cb6229a8097d97546fdc4a14f3506463ae8cc73d5727f326532"
